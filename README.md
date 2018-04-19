@@ -4,6 +4,8 @@ This script make easy switching between countries when you want to use different
 ## Download
 First of all you should go to official tor page and download any Windows or Linux versions you go to use.
 
+* https://www.torproject.org/
+
 Once you have decompressed, download this branch, decompress in tor folder (next to Browser folder), and go to next section
 
 ## If you use Linux

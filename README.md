@@ -26,3 +26,7 @@ Everything is set, you only need to double click hover startFrom.bat, and it wil
 
 * You should write only the country code from the allowedCountries, for example es,cz,de,fr,pl,uk, etc.
 * allowedCountries.txt should be there, because the script check if the country is allowed by Tor, otherwise it will fail if tor is not able to use country set
+
+
+### Jelp Us
+If you want to give a hand to this project, feel free to improve the script somehow and send a merge request.
